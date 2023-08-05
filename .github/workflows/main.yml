@@ -19,7 +19,7 @@ trabalhos :
     # Verifica o repositório em $GITHUB_WORKSHOP, para que seu trabalho possa acessá-lo
       - usa : ações/checkout@v2
 
-    # Repositório que será utilizado para gerar os arquivos.
+    # Repositório que será utilizado para gerar os arquivo.
       - usa : Platane/snk@master
         id : cobra-gif
         com :
