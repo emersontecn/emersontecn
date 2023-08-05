@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emerson silva
-- 👀 I’m interested in  HTML,CSS,ARDUINO
-- 🌱 I’m currently learning HTML,CSS
+- 👀 I’m interested in  HTML,CSS,ARDUINO,java,javascript
+- 🌱 I’m currently learning HTML,CSS,java
 - 💞️ I’m looking to collaborate com outras pessoas compartilhando o que aprendo
 
 <!---
