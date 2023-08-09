@@ -4,7 +4,7 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100015061606773)
 
 
-![emersontecn GitHub stats](https://github-readme-stats.vercel.app/api?username=emersontecn&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersontecn&layout=compact)
+![emersontecn GitHub stats](https://github-readme-stats.vercel.app/api?username=emersontecn&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersontecn&langs_count=8)
 
 
 ### Tecnologias que uso no dia a dia
